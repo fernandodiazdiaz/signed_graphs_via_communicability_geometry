@@ -17,6 +17,6 @@ Contents
 
 A Jupyter Notebook demonstrating usage examples, from loading or constructing a graph all the way to computing and visualizing communicability measures.
 
-2)utils.py
+2) utils.py
 
 A Python module with utility functions to streamline analyses:
